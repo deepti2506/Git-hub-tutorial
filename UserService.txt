@@ -2,5 +2,10 @@ get the user data
 
 process the data 
 create an avtar for user
+<<<<<<< HEAD
 
 log in and log out the data 
+=======
+Load the driver or register it 
+close the connection 
+>>>>>>> feature2
